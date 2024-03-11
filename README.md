@@ -18,4 +18,4 @@ In this repo, we maintain a comprehensive list of papers, models, code related t
   
 * [Mammographic Breast Density Assessment Using Deep Learning: Clinical Implementation](https://pubs.rsna.org/doi/10.1148/radiol.2018180694), [[code]](https://github.com/yala/OncoNet_Public)
 
-* 
+* [Multi-view Local Co-occurrence and Global Consistency Learning Improve Mammogram Classification Generalisation](https://arxiv.org/pdf/2209.10478.pdf), MVCCL
