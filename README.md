@@ -1,17 +1,19 @@
 # Awesome resources related to Breast-imaging research
+
 In this repo, we maintain a comprehensive list of papers, models, code related to breast imaging (mostly mammography).
 
-
 ## Datasets
-| Dataset                                                            | Link                                                                                   | Comments                                                                                                             |
-|--------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| RSNA                                                               | [Dataset](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)       | Kaggle competition to predict breast cancer                                                                          |
-| VinDr                                                              | [Dataset](https://vindr.ai/datasets/mammo)                                             | [[paper]](https://www.nature.com/articles/s41597-023-02100-7), Annotation of attributes e.g, mass, calcification etc |
-| The Chinese Mammography Database (CMMD)                            | [Dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508) |                                                                                                                      |
-| University of South Florida Digital Mammography Home Page (DDSM)   | [Dataset](http://www.eng.usf.edu/cvprg/Mammography/Database.html)                      |                                                                                                                      |
 
+| Dataset                                                          | Link                                                                                    | Comments                                                                                                                         |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| RSNA                                                             | [Dataset](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)        | Kaggle competition to predict breast cancer                                                                                      |
+| VinDr                                                            | [Dataset](https://vindr.ai/datasets/mammo)                                              | [[paper]](https://www.nature.com/articles/s41597-023-02100-7), Annotation of attributes e.g, mass, calcification etc             |
+| The Chinese Mammography Database (CMMD)                          | [Dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508)  |                                                                                                                                  |
+| University of South Florida Digital Mammography Home Page (DDSM) | [Dataset](http://www.eng.usf.edu/cvprg/Mammography/Database.html)                       |                                                                                                                                  |
+| Embed                                                            | [Dataset](https://registry.opendata.aws/emory-breast-imaging-dataset-embed)             | [[Code]](https://github.com/Emory-HITI/EMBED_Open_Data/tree/main), [[Paper]](https://pubs.rsna.org/doi/epdf/10.1148/ryai.220047) |
 
 ## Models
+
 | Model                                                                                                                                                                                                                                                                                    | Public Venue                 | Code                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|----------------------------------------------------|
 | [Toward robust mammography-based models for breast cancer risk](https://www.science.org/doi/10.1126/scitranslmed.aba4373)                                                                                                                                                                | Science Translation Medicine | [[Github]](https://github.com/yala/OncoNet_Public) |
