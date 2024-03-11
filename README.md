@@ -5,7 +5,7 @@ In this repo, we maintain a comprehensive list of papers, models, code related t
 ## Datasets
 | Dataset   | Link                        | URL                                                                                 |
 |-----------|------------------------------------|-------------------------------------------------------------------------------------|
-| RSNA   |[Dataset]((https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data),)         | [CUB-200 Official](https://www.vision.caltech.edu/datasets/cub_200_2011/)           |
+| RSNA   |[Dataset](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/data)         | [CUB-200 Official](https://www.vision.caltech.edu/datasets/cub_200_2011/)           |
 | Derm7pt   | Dermatology Concepts Dataset       | [Get access here](https://derm.cs.sfu.ca/Welcome.html)                              |
 | HAM10k    | Skin lesion classification dataset | [Kaggle Link](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)             |
 | SIIM_ISIC | Skin Melanoma classification       | [SIIM-ISIC Kaggle](https://www.kaggle.com/c/siim-isic-melanoma-classification/data) |
