@@ -10,5 +10,7 @@ In this repo, we maintain a comprehensive list of papers, models, code related t
 * [Embed](https://registry.opendata.aws/emory-breast-imaging-dataset-embed/), [[paper]](https://registry.opendata.aws/emory-breast-imaging-dataset-embed/) large scale breast dataset
 
 ## Models
-[Toward robust mammography-based models for breast cancer risk](https://www.science.org/doi/10.1126/scitranslmed.aba4373), [MIRAI], [[code]](https://github.com/yala/OncoNet_Public)
+* [Toward robust mammography-based models for breast cancer risk](https://www.science.org/doi/10.1126/scitranslmed.aba4373), [MIRAI], [[code]](https://github.com/yala/OncoNet_Public)
+
+* [A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction](https://pubs.rsna.org/doi/full/10.1148/radiol.2019182716), [[code]](https://github.com/yala/OncoNet_Public)
 
