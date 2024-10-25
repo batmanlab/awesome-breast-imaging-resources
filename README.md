@@ -41,6 +41,8 @@ In this repo, we maintain a comprehensive list of papers, models, code related t
 | [Unsupervised feature correlation network for localizing breast cancer using history of mammograms](https://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/108.pdf)                                                                                                                     | NeurIPS, 2022 (w)            |                                                                 |
 | [Dual view deep learning for enhanced breast cancer screening using mammography](https://www.nature.com/articles/s41598-023-50797-8)                                                                                                                                                     | Nature Scientific Reports    |                                                                 |
 
+## Object detction for breast imaging
+- [Owner avatar MIAS-mammography-obj-detection](MIAS Database)
 ### Contributing
 
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send
