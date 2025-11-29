@@ -55,7 +55,7 @@ In this repo, we maintain a comprehensive list of papers, models, code related t
 
 ## Object detction for breast imaging
 
-- [Owner avatar MIAS-mammography-obj-detection](MIAS Database)
+-  [Owner avatar MIAS-mammography-obj-detection](https://www.kaggle.com/datasets/kmader/mias-mammography)
 
 ### Contributing
 
